@@ -2,25 +2,26 @@
 Changelog for package leo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.0.3 (2024-05-12)
+1.2.4 (2024-11-08)
 ------------------
-* Remove imu system plugin from the robot (`#11 <https://github.com/LeoRover/leo_common-ros2/issues/11>`_) (`#13 <https://github.com/LeoRover/leo_common-ros2/issues/13>`_)
+* Add dummy .sh file for .dsv hook (backport `#14 <https://github.com/LeoRover/leo_common-ros2/issues/14>`_) (`#16 <https://github.com/LeoRover/leo_common-ros2/issues/16>`_)
 * Contributors: Jan Hernas
 
-3.0.2 (2024-04-27)
+1.2.3 (2024-05-12)
 ------------------
-* IGN_GAZEBO_RESOURCE_PATH -> GZ_SIM_RESOURCE_PATH
+* Remove imu system plugin from the robot (`#11 <https://github.com/LeoRover/leo_common-ros2/issues/11>`_)
+* Contributors: Jan Hernas
+
+1.2.2 (2024-04-27)
+------------------
+* Set GZ_SIM_RESOURCE_PATH for Gazebo Harmonic
 * Contributors: Błażej Sowa
 
-3.0.1 (2024-02-13)
+1.2.1 (2024-02-13)
 ------------------
-* Change wheel ode friction params (`#8 <https://github.com/LeoRover/leo_common-ros2/issues/8>`_) (`#9 <https://github.com/LeoRover/leo_common-ros2/issues/9>`_)
-* Contributors: Jan Hernas
-
-3.0.0 (2023-11-08)
-------------------
+* Change wheel ode friction params (`#8 <https://github.com/LeoRover/leo_common-ros2/issues/8>`_)
 * Remove redundant ros2_control controller configuration
-* Contributors: Błażej Sowa
+* Contributors: Błażej Sowa, Jan Hernas
 
 1.2.0 (2023-11-02)
 ------------------
