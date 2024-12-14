@@ -1,0 +1,66 @@
+ros-humble-leo-teleop (1.2.4-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Thu, 07 Nov 2024 16:00:00 -0000
+
+ros-humble-leo-teleop (1.2.3-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sat, 11 May 2024 16:00:00 -0000
+
+ros-humble-leo-teleop (1.2.2-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 26 Apr 2024 16:00:00 -0000
+
+ros-humble-leo-teleop (1.2.1-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 12 Feb 2024 16:00:00 -0000
+
+ros-humble-leo-teleop (1.2.0-1jammy) jammy; urgency=high
+
+  * Increase joystick deadzone
+  * Switch to using joy_linux package instead of joy
+  * Update author and copyright info
+  * Ci updates (#7 <https://github.com/LeoRover/leo_common-ros2/issues/7>)
+  * Adapt joy_config to mecanum wheels (#4 <https://github.com/LeoRover/leo_common-ros2/issues/4>)
+  * Contributors: Aleksander Szymański, Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Wed, 01 Nov 2023 16:00:00 -0000
+
+ros-humble-leo-teleop (1.1.0-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 30 Aug 2022 16:00:00 -0000
+
+ros-humble-leo-teleop (1.0.3-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 24 May 2022 16:00:00 -0000
+
+ros-humble-leo-teleop (1.0.2-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sun, 06 Mar 2022 16:00:00 -0000
+
+ros-humble-leo-teleop (1.0.1-1jammy) jammy; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sun, 06 Mar 2022 16:00:00 -0000
+
+ros-humble-leo-teleop (1.0.0-1jammy) jammy; urgency=high
+
+  * Initial port for ROS2
+
+ -- Fictionlab <support@fictionlab.pl>  Sun, 06 Mar 2022 16:00:00 -0000
+
+
