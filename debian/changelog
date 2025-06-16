@@ -1,0 +1,73 @@
+ros-humble-leo-msgs (1.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 11 Apr 2025 00:00:00 -0000
+
+ros-humble-leo-msgs (1.2.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 08 Nov 2024 00:00:00 -0000
+
+ros-humble-leo-msgs (1.2.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sun, 12 May 2024 00:00:00 -0000
+
+ros-humble-leo-msgs (1.2.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sat, 27 Apr 2024 00:00:00 -0000
+
+ros-humble-leo-msgs (1.2.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 13 Feb 2024 00:00:00 -0000
+
+ros-humble-leo-msgs (1.2.0-1bookworm) bookworm; urgency=high
+
+  * Update author and copyright info
+  * Ci updates (#7 <https://github.com/LeoRover/leo_common-ros2/issues/7>)
+  * Mecanum Wheel Odom message (#3 <https://github.com/LeoRover/leo_common-ros2/issues/3>)
+  * Contributors: Aleksander Szymański, Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Thu, 02 Nov 2023 00:00:00 -0000
+
+ros-humble-leo-msgs (1.1.0-1bookworm) bookworm; urgency=high
+
+  * Add service definition for setting IMU calibration (#2 <https://github.com/LeoRover/leo_common-ros2/issues/2>)
+  * Contributors: Aleksander Szymański
+
+ -- Fictionlab <support@fictionlab.pl>  Wed, 31 Aug 2022 00:00:00 -0000
+
+ros-humble-leo-msgs (1.0.3-1bookworm) bookworm; urgency=high
+
+  * Remove architecture_independent from leo_msgs (#1 <https://github.com/LeoRover/leo_common-ros2/issues/1>)
+  * Contributors: Scott K Logan
+
+ -- Fictionlab <support@fictionlab.pl>  Wed, 25 May 2022 00:00:00 -0000
+
+ros-humble-leo-msgs (1.0.2-1bookworm) bookworm; urgency=high
+
+  * Set interface dependencies in CMakeLists
+  * Don't set build export dependency for builtin_interfaces
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 07 Mar 2022 00:00:00 -0000
+
+ros-humble-leo-msgs (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Add builtin_interfaces to dependencies
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 07 Mar 2022 00:00:00 -0000
+
+ros-humble-leo-msgs (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Initial port for ROS2
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 07 Mar 2022 00:00:00 -0000
+
+
